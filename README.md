@@ -1,3 +1,3 @@
 No, I will not fix your computer.
 
-Nor teach you how to hack.
+Nor will I teach you how to hack.
