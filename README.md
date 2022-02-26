@@ -1,6 +1,6 @@
-### Heya, I am `kneel`.
+### Hi there.
 
-## I'm a student and a developer.
+## I like making computers do cool stuff.
 
 Stuff I use:
 
@@ -14,9 +14,6 @@ Stuff I use:
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" alt="Git Logo"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="VS Code Logo"/></a>
 </div>
-
-### Stats
+<br/>
 
 [![chickensalt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neelkarma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![chickensalt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelkarma&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
